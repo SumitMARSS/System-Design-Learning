@@ -4,7 +4,7 @@ using namespace std;
 
 // Encapsulation class - 
 // 1. It's all abbout binding data and methods or capsule all details and behavoiour in a class so that whenever we need that object we can directly ask/use that class/bluprint to create that object
-// 2. It also helps in data privacy if we want some control over some data or don't want to give access to users we can hide from user and can give a methid to intracct e.g Getter() and Setter() methods are commonly used
+// 2. It also helps in data privacy if we want more control over some data or don't want to give access to users we can hide from user and can give a methid to intracct e.g Getter() and Setter() methods are commonly used
 
 
 class Car{

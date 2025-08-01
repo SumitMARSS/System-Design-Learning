@@ -1,0 +1,13 @@
+1. Differnece between Abstraction and Encapsulation
+Ans - 
+        Abstraction - 
+            1. Used to reduce complexity 
+            2. By defination - Wrapping data and code (methods) into a single unit (class) and restricting direct access to some components.
+
+
+        Encapsulation - 
+            1. Used for data security - provides control access of data 
+            2. By defination - Wrapping data and code (methods) into a single unit (class) and restricting direct access to some components.
+
+
+2. 
