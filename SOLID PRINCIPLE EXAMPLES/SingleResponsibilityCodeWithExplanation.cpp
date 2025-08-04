@@ -1,6 +1,8 @@
 //Single Responsibility Principle
 
 // this class doesn't follow single reason to change class as (class has only one reason to change)
+// eg. tv remote only controls tv not ac, gate etc...
+
 #include <bits/stdc++.h>
 using namespace std;
 
